@@ -1,0 +1,3 @@
+dpkt
+colorama
+python-geoip-geolite2
